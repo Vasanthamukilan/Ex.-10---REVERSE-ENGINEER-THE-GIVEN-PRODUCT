@@ -31,9 +31,11 @@
   ###   ●	Open the file from the USB storage and select the Print option.
 
 ## Input:
-![241862946-dd6a8b36-b997-475d-b3f2-d962f9dce48a](https://github.com/Vasanthamukilan/Ex.-10---REVERSE-ENGINEER-THE-GIVEN-PRODUCT/assets/119559694/0a722f0a-bb93-439c-91c4-72a36b0091a6)
+<img height=40% width=30% src="https://github.com/Vasanthamukilan/Ex.-10---REVERSE-ENGINEER-THE-GIVEN-PRODUCT/assets/119559694/0a722f0a-bb93-439c-91c4-72a36b0091a6">
+
 ## Output:
-![241863227-3f4383d0-dea7-4ff7-b70e-ed1eb6bd8f54](https://github.com/Vasanthamukilan/Ex.-10---REVERSE-ENGINEER-THE-GIVEN-PRODUCT/assets/119559694/2f86b9b8-fe6c-49ac-992f-02207e425e8b)
+<img height=40% width=30% src="https://github.com/Vasanthamukilan/Ex.-10---REVERSE-ENGINEER-THE-GIVEN-PRODUCT/assets/119559694/2f86b9b8-fe6c-49ac-992f-02207e425e8b">
+
 ### Name:Vasanthamukilan.M
 ### Register Number:212222230167
 
